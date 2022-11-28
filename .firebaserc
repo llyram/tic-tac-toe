@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tic-tac-toe-4e111": {
+      "hosting": {
+        "tic-tac-toe": [
+          "tic-tac-toe-4e111"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tic-tac-toe-4e111"
+  }
+}
