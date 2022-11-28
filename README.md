@@ -1,27 +1,56 @@
-# TicTacToe
+# Tic Tac Toe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+- This is a Basic Tic Tac Toe Game build using Angular. It also works as a Progressive Web App using @angular/pwa.
 
-## Development server
+- Hosted on firebase : https://tic-tac-toe-4e111.web.app
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
-## Code scaffolding
+- Tutorial followed : [Angular for Beginners - Let's build a Tic-Tac-Toe PWA](https://www.youtube.com/watch?v=G0bBLvWXBvc)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<!-- GETTING STARTED -->
+## Getting Started
 
-## Build
+To get a local copy up and running follow these simple example steps.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+### Installation
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/llyram/tic-tac-toe.git
+   ```
+2. Install Angular CLI
+    ```sh
+    npm install -g @angular/cli
+    ```
 
-## Running end-to-end tests
+3. cd into the project
+    ```sh
+    cd tic-tac-toe/
+    ```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+4. Install npm packages
+    ```sh
+    npm install
+    ```
 
-## Further help
+5. Serve the project using Angular CLI
+    ```sh
+    ng serve
+    ```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<!-- Contributing -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repository and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
